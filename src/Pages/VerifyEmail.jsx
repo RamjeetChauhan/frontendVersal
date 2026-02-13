@@ -48,7 +48,7 @@ const VerifyEmail = () => {
   )
 }
 
-export default VerifyEmail
+export default VerifyEmail;
 
 
 
